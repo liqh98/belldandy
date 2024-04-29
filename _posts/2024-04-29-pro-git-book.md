@@ -34,3 +34,8 @@ git log --oneline --decorate --graph --all
 ```
 git status ;; to see all the state
 ```
+感觉我就已经遭遇了一次变基？
+我在本地环境进行修改，然后add 加入了分支里，之后想要提交 git push
+在这之前我在另一个地方，对服务器上的远程文件进行了修改，然后保存了提交。
+所以发生了不让我提交的冲突，
+git fetch 可以，但是git pull 失败了，git pull rebase 成功了，到底是怎么回事？
