@@ -20,6 +20,9 @@ git clone git@github.com:name/repository/name
 git branch new_name
 git branch checkout change_name
 
+git branch
+git branch -v
+git branch --merged
 git log --oneline --decorate --graph --all
 
 ## others
