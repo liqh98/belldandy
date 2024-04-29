@@ -23,6 +23,9 @@ git checkout -b name;;  git branch name, git checkout name
 git merge name
 git branch -d name;; to delete the branch
 
+git branch
+git branch -v
+git branch --merged
 git log --oneline --decorate --graph --all
 
 ## others
