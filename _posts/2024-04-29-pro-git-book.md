@@ -18,7 +18,10 @@ git clone git@github.com:name/repository/name
 
 ## branch
 git branch new_name
-git branch checkout change_name
+git checkout change_name
+git checkout -b name;;  git branch name, git checkout name
+git merge name
+git branch -d name;; to delete the branch
 
 git log --oneline --decorate --graph --all
 
