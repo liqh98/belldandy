@@ -1,6 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-  - jekyll-remote-theme
+theme: minimal
 title: my own blog on github
 author: liqh98
 description: to learn English and Computer technology
