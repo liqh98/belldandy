@@ -1,6 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: my own blog on github
+title: My Own BLOGs ON GitHub 
 author: liqh98
-description: to learn English and Computer technology
+description: To Learn English and Computer Technology
