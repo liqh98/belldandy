@@ -11,3 +11,5 @@ This is my blogs.
 * [pro git](./_posts/2024-04-29-pro-git-book.md).
 * [about blogs themes](./_posts/2024-04-29-about-blogs-themes.md)
 * [my first blogs](./_posts/2024-04-29-my-blogs-first.md).
+## 2024-07
+* [书目](./_poosts/24/07/2024-07-15-目前读的书.md)
