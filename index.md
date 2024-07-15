@@ -12,4 +12,4 @@ This is my blogs.
 * [about blogs themes](./_posts/2024-04-29-about-blogs-themes.md)
 * [my first blogs](./_posts/2024-04-29-my-blogs-first.md).
 ## 2024-07
-* [书目](./_poosts/24/07/2024-07-15-目前读的书.md)
+* [书目](./_poosts/24/07/2024-07-15-booklist.md)
